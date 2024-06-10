@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielUC19
+- 👋 Hi, I’m Ukaegbu Daniel Chukwuemeka 
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on cybersecurity
